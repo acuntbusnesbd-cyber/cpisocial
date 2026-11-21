@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix SyncSocial",
+  "description": "A comprehensive social network featuring real-time chat, video calls, and media sharing with a modern, responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
